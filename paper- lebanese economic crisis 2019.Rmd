@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Lebanese Economy 2019"
 author: "MM I"
 date: "28/10/2021"
